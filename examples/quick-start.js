@@ -1,19 +1,4 @@
-# axrio
-
-A package that combines Axios and Cheerio to get a web page.
-
-## Quick usage example
-
-First install the package with npm like below:
-
-```
-npm install @geshan/axrio
-```
-
-Then you can start using it like below:
-
-```
-const axrio = require('@geshan/axrio');
+const axrio = require('../lib/axrio');
 
 (async () => {
   try {
@@ -25,5 +10,3 @@ const axrio = require('@geshan/axrio');
     console.log(`Error `, e);
   }
 })();
-
-```
