@@ -1,2 +1,3 @@
 # axrio
-A package that combines Axios and Cheerio
+
+A package that combines Axios and Cheerio to get a web page.
