@@ -26,8 +26,8 @@
   },
   "homepage": "https://github.com/geshan/axrio#readme",
   "dependencies": {
-    "axios": "^1.6.0",
-    "cheerio": "^1.0.0-rc.3",
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
     "snyk": "^1.316.1"
   },
   "snyk": true
